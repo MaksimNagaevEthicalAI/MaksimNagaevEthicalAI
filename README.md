@@ -154,3 +154,117 @@ ALMA explores a different question:
 > Can artificial intelligence continuously improve its understanding of a person instead of simply improving its answers?
 
 This question drives every architectural decision within the project.
+
+---
+
+# Publications & Resources
+
+## Notion
+
+Project documentation, architecture, and research notes:
+
+https://button-alyssum-638.notion.site/
+
+---
+
+## Medium
+
+Research articles on AI, psychology, relationship dynamics, and cognitive architecture:
+
+https://medium.com/@EthicalAIforLongTermPartnerCom
+
+---
+
+## LinkedIn
+
+Project updates and professional networking:
+
+---
+
+# Publications & Resources
+
+## Notion
+
+Project documentation, architecture, and research notes:
+
+https://button-alyssum-638.notion.site/
+
+---
+
+## Medium
+
+Research articles on AI, psychology, relationship dynamics, and cognitive architecture:
+
+https://medium.com/@EthicalAIforLongTermPartnerCom
+
+---
+
+## LinkedIn
+
+Project updates and professional networking:
+
+www.linkedin.com/in/maksim-nagaev-9a03013a8
+
+---
+
+# Contact
+
+📧 spektrbio@gmail.com  📧 alma.ai.research@gmail.com
+
+I welcome conversations about:
+
+- AI Research
+- Cognitive Architecture
+- Knowledge Representation
+- Human Psychology
+- Research Collaboration
+- Early-stage Partnerships
+
+---
+
+# About This GitHub
+
+This GitHub is dedicated to the long-term development of ALMA AI.
+
+The project is developed in the open, with architecture documented before implementation.
+
+Every repository reflects a different stage of the research:
+
+- **ALMA-Core** — active cognitive architecture and system design.
+- **ALMA-Research** — historical concepts, executive briefs, and early research.
+
+The long-term goal is to create a transparent, evidence-based cognitive framework capable of continuously improving psychological understanding.
+
+Thank you for visiting.
+
+---
+
+# Contact
+
+📧 spektrbio@gmail.com
+
+I welcome conversations about:
+
+- AI Research
+- Cognitive Architecture
+- Knowledge Representation
+- Human Psychology
+- Research Collaboration
+- Early-stage Partnerships
+
+---
+
+# About This GitHub
+
+This GitHub is dedicated to the long-term development of ALMA AI.
+
+The project is developed in the open, with architecture documented before implementation.
+
+Every repository reflects a different stage of the research:
+
+- **ALMA-Core** — active cognitive architecture and system design.
+- **ALMA-Research** — historical concepts, executive briefs, and early research.
+
+The long-term goal is to create a transparent, evidence-based cognitive framework capable of continuously improving psychological understanding.
+
+Thank you for visiting.
