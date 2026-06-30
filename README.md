@@ -177,33 +177,8 @@ https://medium.com/@EthicalAIforLongTermPartnerCom
 
 ## LinkedIn
 
-Project updates and professional networking:
+Project updates and professional networking:www.linkedin.com/in/maksim-nagaev-9a03013a8
 
----
-
-# Publications & Resources
-
-## Notion
-
-Project documentation, architecture, and research notes:
-
-https://button-alyssum-638.notion.site/
-
----
-
-## Medium
-
-Research articles on AI, psychology, relationship dynamics, and cognitive architecture:
-
-https://medium.com/@EthicalAIforLongTermPartnerCom
-
----
-
-## LinkedIn
-
-Project updates and professional networking:
-
-www.linkedin.com/in/maksim-nagaev-9a03013a8
 
 ---
 
