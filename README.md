@@ -163,7 +163,7 @@ This question drives every architectural decision within the project.
 
 Project documentation, architecture, and research notes:
 
-https://button-alyssum-638.notion.site/
+https://button-alyssum-638.notion.site/ALMA-AI-Research-White-Paper-Version-1-0-31745b82b9708019988ecb95b538ed3d?pvs=73
 
 ---
 
